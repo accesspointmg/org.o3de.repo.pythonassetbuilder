@@ -78,5 +78,16 @@
     "overlays": [
       "org.o3de.overlay.pythonassetbuilder.common>=0.0.0"
     ]
-  }
+  },
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-pythonassetbuilder.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
+  ]
 }
